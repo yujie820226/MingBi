@@ -1,0 +1,30 @@
+{
+  "name": "AncestorMoney",
+  "logoURI": "http://imagemoqi.test.upcdn.net/MingBi/MingBi.png",
+  "keywords": [
+      "AncestorMoney",
+      "Ancestor Money",
+      "MingBi",
+      "Joss Money",
+      "joss paper",
+      "ghost money",
+      "spirit money",
+      "hell money"
+    ],
+    "timestamp": "2022-08-26T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x613d1d9eb0e3c34eb7d70ac1a10e14ac391b9db9",
+      "name": "AncestorMoney",
+      "symbol": "MingBi",
+      "decimals": 0,
+      "logoURI": "http://imagemoqi.test.upcdn.net/MingBi/MingBi.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
